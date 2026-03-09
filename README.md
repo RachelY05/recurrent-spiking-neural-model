@@ -1,1 +1,0 @@
-# recurrent-spiking-neural-model
