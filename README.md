@@ -127,7 +127,7 @@ Computed using a sliding time window.
 
 ### Connection Weight Matrix
 
-
+<img src="assets/WeightMatrix.png" width="500" alt="">
 
 ---
 
