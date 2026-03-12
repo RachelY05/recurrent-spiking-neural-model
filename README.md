@@ -112,33 +112,22 @@ The simulation generates several visualizations of network dynamics.
 
 Example outputs include:
 
-### Membrane Voltage Dynamics
-
-*(Insert figure here)*
-
+<img src="assets/UnitActi.png" width="500" alt="Membrane Voltage Dynamics">
 
 ---
 
-### Spike Raster Plot
-
-*(Insert figure here)*
-
+<img src="assets/Spikes.png" width="500" alt="">
 
 ---
 
-### Population Firing Rate
-
+<img src="assets/PopRate.png" width="500" alt="">
 Computed using a sliding time window.
-
-*(Insert figure here)*
-
 
 ---
 
 ### Connection Weight Matrix
 
-*(Insert figure here)*
-
+<img src="assets/WeightMatrix.png" width="500" alt="">
 
 ---
 
